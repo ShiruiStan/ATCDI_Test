@@ -1,10 +1,4 @@
 hello
 
-<<<<<<< HEAD
-version = 3
 
-ATCDI
-HelloWorld
-=======
 version = 1
->>>>>>> parent of 918168f... Update test.txt
